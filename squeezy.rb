@@ -2,8 +2,8 @@ require "formula"
 
 class Squeezy < Formula
   homepage "https://github.com/pssc/squeezy"
-  url "https://github.com/pssc/squeezy/archive/0.24.tar.gz"
-  sha1 "601e9cad7ae10df583c4929fbc1ac3fe51af4505"
+  url "https://github.com/pssc/squeezy/archive/0.25.tar.gz"
+  sha1 "46c52eaa413677711d3e780ef9fc1288921429bb"
 
   def install
       bin.install "squeezy"
